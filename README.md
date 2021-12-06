@@ -1,5 +1,5 @@
 <h1 align="center">Hey! nice to see you, I'm Gino 👋 </h1>
-<h3 align="center">Frontend developer from Argentina</h3>
+<h3 align="center">Frontend Web developer from Argentina</h3>
 
 - 🌱 I’m currently learning **Graphic Design,Programming**
 
