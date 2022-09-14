@@ -1,7 +1,7 @@
 <h1 align="center">Hey! nice to see you, I'm Gino 👋 </h1>
 <h3 align="center">Frontend Web developer from Argentina</h3>
 
-- 🌱 I’m currently learning **ReactJS & TypeScript**
+- 🌱 I’m currently learning **react-redux & TypeScript**
 
 - ⚡ **In my free times I go to the gym, listen music and drink a lot of coffee. No, seriously. A lot of coffee. Also I like to take photos and cats.**
 
@@ -20,6 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width = "40" heigth = "40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" width = "40" heigth = "40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width = "40" heigth = "40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/react-redux.svg" width = "40" heigth = "40" />
 
 
 
