@@ -1,7 +1,7 @@
 <h1 align="center">Hey! nice to see you, I'm Gino 👋 </h1>
 <h3 align="center">FullStack Developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **NestJS**
 
 - ⚡ **In my free times I go to the gym, listen music and drink a lot of coffee. No, seriously. A lot of coffee. Also I like to take photos and cats.**
 
